@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Patrícia G. F. Matsubara
 
-You can use the [editor on GitHub](https://github.com/patriciagfm/patriciagfm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D. candidate at the Federal University of Amazonas (UFAM) and a lecturer at the Faculty of Computing from the Federal University of Mato Grosso do Sul (UFMS). I am mostly interested on research about human aspects in Software Engineering and on collaborating with the software industry on solving their Software Engineering problems.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ph.D. Degree 
+2019 - Current: Federal University of Amazonas (UFAM)
 
-```markdown
-Syntax highlighted code block
+### Masters Degree 
+2008 - 2010: Federal University of Goiás (UFG)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patriciagfm/patriciagfm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Bachelor Degree 
+2004 - 2007: Federal University of Goiás (UFG)
