@@ -14,3 +14,12 @@ I am a Ph.D. candidate at the Federal University of Amazonas (UFAM) and a lectur
 
 ### Bachelor Degree 
 2004 - 2007: Federal University of Goiás (UFG)
+
+## Publications
+
+## Artifacts for Industry
+
+### Ph.D. Results
+
+Booklet on SwEDeL (Software Estimates' Defense Lenses)
+Digital Simulation (videos) about SwEDeL
